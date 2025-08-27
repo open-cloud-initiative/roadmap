@@ -1,2 +1,2 @@
-# Open Cloud Initative (OCI) public roadmp
+# Open Cloud Initiative (OCI) public roadmp
 
